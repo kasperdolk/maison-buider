@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/shopify-schema-builder/static/css/main.5394cc83.chunk.css",
-    "main.js": "/shopify-schema-builder/static/js/main.19b65b11.chunk.js",
-    "main.js.map": "/shopify-schema-builder/static/js/main.19b65b11.chunk.js.map",
-    "runtime-main.js": "/shopify-schema-builder/static/js/runtime-main.5a26b0f1.js",
-    "runtime-main.js.map": "/shopify-schema-builder/static/js/runtime-main.5a26b0f1.js.map",
-    "static/js/2.c22812d2.chunk.js": "/shopify-schema-builder/static/js/2.c22812d2.chunk.js",
-    "static/js/2.c22812d2.chunk.js.map": "/shopify-schema-builder/static/js/2.c22812d2.chunk.js.map",
-    "index.html": "/shopify-schema-builder/index.html",
-    "static/css/main.5394cc83.chunk.css.map": "/shopify-schema-builder/static/css/main.5394cc83.chunk.css.map",
-    "static/js/2.c22812d2.chunk.js.LICENSE.txt": "/shopify-schema-builder/static/js/2.c22812d2.chunk.js.LICENSE.txt"
+    "main.css": "/maison-buider/static/css/main.5394cc83.chunk.css",
+    "main.js": "/maison-buider/static/js/main.19b65b11.chunk.js",
+    "main.js.map": "/maison-buider/static/js/main.19b65b11.chunk.js.map",
+    "runtime-main.js": "/maison-buider/static/js/runtime-main.abbabf93.js",
+    "runtime-main.js.map": "/maison-buider/static/js/runtime-main.abbabf93.js.map",
+    "static/js/2.40a73a8c.chunk.js": "/maison-buider/static/js/2.40a73a8c.chunk.js",
+    "static/js/2.40a73a8c.chunk.js.map": "/maison-buider/static/js/2.40a73a8c.chunk.js.map",
+    "index.html": "/maison-buider/index.html",
+    "static/css/main.5394cc83.chunk.css.map": "/maison-buider/static/css/main.5394cc83.chunk.css.map",
+    "static/js/2.40a73a8c.chunk.js.LICENSE.txt": "/maison-buider/static/js/2.40a73a8c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a26b0f1.js",
-    "static/js/2.c22812d2.chunk.js",
+    "static/js/runtime-main.abbabf93.js",
+    "static/js/2.40a73a8c.chunk.js",
     "static/css/main.5394cc83.chunk.css",
     "static/js/main.19b65b11.chunk.js"
   ]
