@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/maison-buider/static/css/main.5394cc83.chunk.css",
-    "main.js": "/maison-buider/static/js/main.454824ec.chunk.js",
-    "main.js.map": "/maison-buider/static/js/main.454824ec.chunk.js.map",
+    "main.js": "/maison-buider/static/js/main.b9093bfc.chunk.js",
+    "main.js.map": "/maison-buider/static/js/main.b9093bfc.chunk.js.map",
     "runtime-main.js": "/maison-buider/static/js/runtime-main.abbabf93.js",
     "runtime-main.js.map": "/maison-buider/static/js/runtime-main.abbabf93.js.map",
     "static/js/2.40a73a8c.chunk.js": "/maison-buider/static/js/2.40a73a8c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.abbabf93.js",
     "static/js/2.40a73a8c.chunk.js",
     "static/css/main.5394cc83.chunk.css",
-    "static/js/main.454824ec.chunk.js"
+    "static/js/main.b9093bfc.chunk.js"
   ]
 }
